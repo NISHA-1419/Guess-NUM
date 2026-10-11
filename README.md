@@ -1,7 +1,7 @@
 # Guessing Number Game
 
 Topics Used: 
-Math.florr
+Math.floor
 Math.random 
 loops
 
